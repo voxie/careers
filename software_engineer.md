@@ -1,7 +1,8 @@
 # Full Stack Software Engineer
 
 [Voxie Systems](http://voxie.com)<br />
-Atlanta, GA USA
+Atlanta, GA USA<br />
+Apply to: [devjobs@voxiechat.com](mailto:devjobs@voxiechat.com)
 
 ## Job Description
 
@@ -48,3 +49,7 @@ Voxie is the world’s first conversational commerce platform for Business to Co
 We’re on a mission to redefine how brands connect with their customers in meaningful ways that don’t involve spam and canned BS. This is challenging work but our team of passionate, creative, problem-solvers makes the journey exciting! 
 
 We put customers first, win and work as a team and are results-oriented (we work smart).  We’re biased towards action and are eternal optimists.  Those are the values that define who we are and create the foundation of what we’re building.
+
+## How To Apply
+
+To apply just send your resume and a quick summary of why you think you'd be a good fit to [devjobs@voxiechat.com](mailto:devjobs@voxiechat.com)
