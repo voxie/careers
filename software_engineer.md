@@ -2,7 +2,7 @@
 
 [Voxie Systems](http://voxie.com)<br />
 Atlanta, GA USA + Remote (EST, CST)<br />
-Apply to: [developers@voxiechat.com](mailto:developers@voxiechat.com)
+Apply to: [john@voxiechat.com](mailto:john@voxiechat.com)
 
 **Voxie is the world’s first conversational commerce platform for B2C brands. We’re building the future of communication by helping brands build meaningful relationships with their customers through conversation, using SMS to start.**
 
