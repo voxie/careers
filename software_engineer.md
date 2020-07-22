@@ -14,7 +14,7 @@ We are on track to be the fastest growing profitable SaaS company in 2021 — we
 - Interface directly with internal teams and eventually Voxie customers
 - Own the full lifecycle of feature development from scoping and defining problems through testing and releasing solutions
 - Learn from and contribute to our culture of continually improving our team and its skills
-- Develop, currently using Laravel on AWS using Vapor, but we are expanding our toolset to solve the problems we discover in the most efficient way and expect your contributions here
+- Develop, currently using Laravel on AWS using Vapor, but we are expanding our toolset to Python, Go, and more as we discover the most efficient way to solve our problems and expect your contributions here
  
 You may be a good fit for our team if:
 - You are a world-class problem solver able to define, scope, implement, and maintain software solutions alongside fellow team members.
